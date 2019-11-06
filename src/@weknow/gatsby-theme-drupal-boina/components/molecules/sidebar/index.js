@@ -30,7 +30,6 @@ const Sidebar = ({ showSidebar, hideSidebar }) => (
               <Link className="c-sidebar__link" to="/about">About</Link>
             </li>
           </ul>
-          <a className="c-sidebar__cta" target="_blank" rel="noopener noreferrer" href="https://weknowinc.com/contact">Partner with WeKnow</a>
         </div>
       </div>
     </div>
